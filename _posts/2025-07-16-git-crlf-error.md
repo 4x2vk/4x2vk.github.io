@@ -3,7 +3,7 @@ layout: post
 title: "[Git] LF will be replaced by CRLF in 에러 해결법"
 date: '2025-07-16 15:32:27 +0900'
 description: crlf error
-image: assets\img\content\2025-07-16\image3.png
+image: /assets/img/content/2025-07-16/image3.png
 category: [BootCamp, TIL]
 tags: [git]
 ---
