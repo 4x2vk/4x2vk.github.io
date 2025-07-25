@@ -3,7 +3,7 @@ layout: post
 title: "[Spring] Spring Boot의 BeanFactory와 ApplicationContext 이해"
 date: '2025-07-25 23:12:53 +0900'
 description: understanding BeanFactory and ApplicationContext
-image: /assets/img/content/2025-07-23/image.png
+image: /assets/img/content/2025-07-25/image2.png
 category: [BootCamp, TIL]
 tags: [intellij, spring]
 ---
