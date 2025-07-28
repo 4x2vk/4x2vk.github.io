@@ -5,7 +5,7 @@ date: '2025-07-25 23:12:53 +0900'
 description: understanding BeanFactory and ApplicationContext
 image: /assets/img/content/2025-07-25/image2.png
 category: [BootCamp, TIL]
-tags: [intellij, spring]
+tags: [spring]
 ---
 
 Spring Boot를 사용하다 보면 BeanFactory, ApplicationContext 같은 용어를 자주 접하게 된다. 이 용어들은 스프링의 핵심 개념인 제어의 역전(IoC) 컨테이너와 관련돼 있지만, Spring Boot를 처음 접하는 사람에겐 꽤나 헷갈릴 수 있다.
