@@ -91,4 +91,4 @@ if (!inputPassword.equals(recentPassword)) {
 
 • 🔗 [API Docs](https://documenter.getpostman.com/view/47183182/2sB3BANDXa)
 
-• 🔗 [ERD Diagram (확인시 로그인 필요)](https://documenter.getpostman.com/view/47183182/2sB3BANDXa)
+• 🔗 [ERD Diagram (확인시 로그인 필요)](https://github.com/4x2vk/ScheduleAPI/issues/6)
