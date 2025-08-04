@@ -69,13 +69,13 @@ DB Client를 통해 직접 테이블이 생성된 걸 확인하고 데이터가 
 
     해결:  메서드 추가하여 기존 비밀번호 비교 후 예외 처리
 
-``` java
-if (!inputPassword.equals(recentPassword)) {
+    ``` java
+    if (!inputPassword.equals(recentPassword)) {
     throw new ResponseStatusException(HttpStatus.UNAUTHORIZED);
-}
-```
+    }
+    ```
 
-2. GET 요청 시 `name` 파라미터 필터링
+ 2. GET 요청 시 `name` 파라미터 필터링
 
     문제: 모든 일정이 반환되어 사용자별 필터링 어려움
 
@@ -91,4 +91,4 @@ if (!inputPassword.equals(recentPassword)) {
 
 • 🔗 [API Docs](https://documenter.getpostman.com/view/47183182/2sB3BANDXa)
 
-• 🔗 [ERD Diagram (확인시 로그인 필요)](https://github.com/4x2vk/ScheduleAPI/issues/6)
+• 🔗 [ERD Diagram](https://github.com/4x2vk/ScheduleAPI/issues/6)
