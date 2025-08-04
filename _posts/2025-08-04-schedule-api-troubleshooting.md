@@ -10,18 +10,6 @@ tags: [springboot, project, troubleshooting]
 
 오늘은 일정 관리를 위한 Schedule API 프로젝트를 진행하면서 배우고 경험한 내용을 정리해본다.
 
-### 개발 스택
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
-
-  <img src="https://img.shields.io/badge/JDK-17-orange?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lombok-ED1C24?logo=java&logoColor=white" />
-
-</div>
-
 ### 데이터베이스와의 첫 만남
 
 프로젝트를 진행하면서 처음으로 MySQL DB를 직접 다뤄보게 되었다.
