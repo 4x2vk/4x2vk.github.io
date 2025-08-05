@@ -94,8 +94,6 @@ GET /dashboard HTTP/1.1
 Host: example.com
 Cookie: session_id=abc123; theme=dark
 ```
-
-
 ---
 
 ## 6. 세션(Session)
