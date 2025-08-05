@@ -16,9 +16,9 @@ tags: [springboot, project, troubleshooting]
 
 - Schedule Table 생성 후 DB와 코드가 어떻게 연결되는지를 직접 확인
 
-![image1](/assets/img/content/2025-08-04/image.png)
+![image1](/assets/img/content/2025-08-04/image.png){: .shadow }
 
-![image2](/assets/img/content/2025-08-04/image2.png)
+![image2](/assets/img/content/2025-08-04/image2.png){: .shadow }
 
 - Comment Table을 별도로 생성하여 schedule_id를 통해 일정과 댓글 간의 외래키 관계 설정
 
@@ -35,9 +35,9 @@ CREATE TABLE comment (
 );
 ```
 
-![image3](/assets/img/content/2025-08-04/image3.png)
+![image3](/assets/img/content/2025-08-04/image3.png){: .shadow }
 
-![image3](/assets/img/content/2025-08-04/image4.png)
+![image3](/assets/img/content/2025-08-04/image4.png){: .shadow }
 
 DB Client를 통해 직접 테이블이 생성된 걸 확인하고 데이터가 잘 들어가는 걸 보며 처음 접한 DB가 점점 익숙해지는 순간이었다.이 경험을 통해 코드만 잘 짜는 것보다 데이터 흐름을 이해하고 구조화하는 능력이 얼마나 중요한지 배울 수 있었다.
 
