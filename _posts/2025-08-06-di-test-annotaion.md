@@ -2,7 +2,7 @@
 layout: post
 title: "[SpringBoot] DI와 테스트, 애노테이션 활용"
 date: '2025-08-06 20:08:07 +0900'
-description: di test annotation
+description: use di test annotation
 image: /assets/img/content/2025-07-25/image2.png
 category: [BootCamp, TIL]
 tags: [springboot]
