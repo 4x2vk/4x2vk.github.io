@@ -16,7 +16,6 @@ tags: [springboot]
 | @Validated | Spring 기반 확장 기능 제공 (validation 그룹 지원) | 그룹별 조건 가능 |
 
 ### 사용 예시
-
 build.gradle
 
 ```java
