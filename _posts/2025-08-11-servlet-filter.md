@@ -8,8 +8,6 @@ category: [BootCamp, TIL]
 tags: [springboot]
 ---
 
-# Spring Boot와 Servlet Filter 완벽 이해
-
 Spring Boot에서 **필터(Filter)**는 HTTP 요청과 응답을 컨트롤러가 처리하기 전과 후에 가로채서 원하는 로직을 실행할 수 있는 기능이다.  
 필터는 Servlet API 기반으로 동작하며, 순수 Java EE 환경에서도 동일하게 사용할 수 있다.
 
