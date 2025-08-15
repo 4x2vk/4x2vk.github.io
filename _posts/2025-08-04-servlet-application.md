@@ -5,7 +5,7 @@ date: '2025-08-04 20:34:54 +0900'
 description: servlet application
 image: /assets/img/content/2025-07-25/image2.png
 category: [BootCamp, TIL]
-tags: [springboot, project, troubleshooting]
+tags: [springboot]
 ---
 
 웹 서버 설치나 배포 없이 코드만으로 톰캣을 띄우고 서블릿을 등록하는 방법을 설명한다. Spring 없이도 충분히 된다!

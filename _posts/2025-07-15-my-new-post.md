@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Level 2] 클래스를 적용해 기본적인 연산을 수행할 수 있는 계산기 만들기"
+title: "[Project] 클래스를 적용해 기본적인 연산을 수행할 수 있는 계산기 만들기"
 date: 2025-07-15 20:18 +0900
 categories: [BootCamp, TIL]
 tags: [project, java]
