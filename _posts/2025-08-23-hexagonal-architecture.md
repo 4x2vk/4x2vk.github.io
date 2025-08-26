@@ -3,7 +3,7 @@ layout: post
 title: "[SpringBoot] 헥사고날 아키텍처"
 date: '2025-08-23 23:48:26 +0900'
 description: hexagonal architecture
-image: /assets/img/content/2025-07-25/image2.png
+image: /assets/img/content/2025-08-26/image.png
 category: [BootCamp, TIL]
 tags: [springboot, architecture]
 --- 
@@ -62,6 +62,7 @@ public class OrderService {
     }
 }
 ```
+
 ### (2) Adapter 구현체
 ``` java
 import org.springframework.stereotype.Component;
