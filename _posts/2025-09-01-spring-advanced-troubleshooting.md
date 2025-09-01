@@ -3,13 +3,12 @@ layout: post
 title: "[Project] Spring Advanced 트러블슈팅"
 date: '2025-09-01 13:44:46 +0900'
 description: spring advanced troubleshooting
-image: 
+image: /assets/img/content/2025-09-01/image.png
 category: [BootCamp, TIL]
 tags: [springboot, project, troubleshooting]
 ---
 
-이 프로젝트는 Spring Boot 기반의 백엔드 서비스로, 초기 설정부터 테스트까지 다양한 이슈가 발생했다. 아래는 발생한 문제들과 그 해결 방법이다.
-
+> 이 프로젝트는 Spring Boot 기반의 백엔드 서비스로, 초기 설정부터 테스트까지 다양한 이슈가 발생했다. 아래는 발생한 문제들과 그 해결 방법이다.{: .prompt-tip }
 ---
 
 ### 애플리케이션 실행 오류
@@ -27,7 +26,6 @@ tags: [springboot, project, troubleshooting]
     secret: your-secret-key
   ```
 - Gradle 의존성을 다시 확인하고 `./gradlew clean build` 실행
-- 로그를 통해 어떤 Bean이 실패했는지 확인 후 해당 클래스를 점검
 
 ---
 
@@ -77,3 +75,6 @@ tags: [springboot, project, troubleshooting]
 - DTO 클래스에서 `@Size`, `@Pattern`, `@NotBlank` 등의 어노테이션을 사용하여 유효성 검사 수행
 - `@Valid` 어노테이션을 컨트롤러에서 사용하여 자동 검증
 
+### 참고 자료
+
+- 🔗 [Github 프로젝트](https://github.com/4x2vk/spring-advanced)
