@@ -8,7 +8,8 @@ category: [BootCamp, TIL]
 tags: [springboot, project, troubleshooting]
 ---
 
-> 이 프로젝트는 Spring Boot 기반의 백엔드 서비스로, 초기 설정부터 테스트까지 다양한 이슈가 발생했다. 아래는 발생한 문제들과 그 해결 방법이다.{: .prompt-tip }
+> 이 프로젝트는 Spring Boot 기반의 백엔드 서비스로, 초기 설정부터 테스트까지 다양한 이슈가 발생했다. 아래는 발생한 문제들과 그 해결 방법이다.
+{: .prompt-tip }
 ---
 
 ### 애플리케이션 실행 오류
@@ -23,7 +24,8 @@ tags: [springboot, project, troubleshooting]
 - `src/main/resources/application.yml`에 JWT 키를 설정
   ```yaml
   jwt:
-    secret: your-secret-key
+    secret: 
+       key: your-secret-key
   ```
 - Gradle 의존성을 다시 확인하고 `./gradlew clean build` 실행
 
