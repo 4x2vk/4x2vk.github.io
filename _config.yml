@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Study Docs # the main title
 
-tagline: fake 개발자 # it will display as the subtitle
+tagline: Small Steps, Big Dreams # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive blog site for technical writing.
