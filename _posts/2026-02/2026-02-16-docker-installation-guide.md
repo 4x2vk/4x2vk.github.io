@@ -210,13 +210,3 @@ newgrp docker
 ✅ macOS에서 Docker 사용
 
 Docker는 개발 환경을 표준화하고 일관성을 유지하는 강력한 도구입니다. 설치 후 다양한 프로젝트에서 사용해 보세요!
-
----
-
-## 체크리스트
-
-- [ ] Front matter 작성 완료 (title, date, categories, tags, image)
-- [ ] 한국어 맞춤법 및 문법 검토
-- [ ] 코드 블록 문법 확인
-- [ ] 이미지 경로 확인 (사용시)
-- [ ] 카테고리/태그 적절성 확인
