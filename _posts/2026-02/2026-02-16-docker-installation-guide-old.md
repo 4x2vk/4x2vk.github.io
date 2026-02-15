@@ -22,7 +22,7 @@ image: /assets/img/content/2026-02-16/docker-installation.png
 
 ### WSL2 설치를 위한 사전 준비
 
-Windows 설정 앱 → 제어판 → 프로그램 및 기능 → Windows 기능 켜기/끄기 → Linux용 Windows 하위 시스템 ![[Pasted image 20251024111559.png]]
+Windows 설정 앱 → 제어판 → 프로그램 및 기능 → Windows 기능 켜기/끄기 → Linux용 Windows 하위 시스템
 
 ### Ubuntu 22.04 설치
 
@@ -70,7 +70,7 @@ https://docs.docker.com/desktop/setup/install/windows-install/
 
 ### Windows Docker Desktop 설정
 
-우측 상단 톱니바퀴 → 오른쪽 Resources → WSL Integration → Apply&restart ![[Pasted image 20251024112236.png]]
+우측 상단 톱니바퀴 → 오른쪽 Resources → WSL Integration → Apply&restart
 
 ---
 
