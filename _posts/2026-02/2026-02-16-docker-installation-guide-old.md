@@ -1,9 +1,11 @@
 ---
+layout: post
 title: "[Docker] Docker 설치 완벽 가이드"
 date: 2026-02-16 10:00:00 +0900
-categories: [BootCamp, TIL]
-tags: [docker, installation, wsl, ubuntu, macos, windows]
+description
 image: /assets/img/content/2026-02-16/docker-installation.png
+categories: [TIL]
+tags: [docker, installation]
 ---
 
 ## 서론
@@ -204,9 +206,9 @@ newgrp docker
 
 이 가이드를 따라 하면 다음과 같이 할 수 있습니다:
 
-✅ 윈도우 환경에서 Docker 설치
-✅ WSL2를 통한 Linux 환경 설정
-✅ 우분투 서버에 Docker 설치
-✅ macOS에서 Docker 사용
+- 윈도우 환경에서 Docker 설치
+- WSL2를 통한 Linux 환경 설정
+- 우분투 서버에 Docker 설치
+- macOS에서 Docker 사용
 
 Docker는 개발 환경을 표준화하고 일관성을 유지하는 강력한 도구입니다. 설치 후 다양한 프로젝트에서 사용해 보세요!
