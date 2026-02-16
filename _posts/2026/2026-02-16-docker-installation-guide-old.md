@@ -26,10 +26,10 @@ tags: [docker, installation]
 
 Windows 설정 앱 → 제어판 → 프로그램 및 기능 → Windows 기능 켜기/끄기 → Linux용 Windows 하위 시스템
 
-![alt text](../../assets/img/content/2026-02-16/image.png)
+![alt text](/assets/img/content/2026-02-16/image.png)
 
 ### Ubuntu 22.04 설치
-![alt text](../../assets/img/content/2026-02-16/image2.png)
+![alt text](/assets/img/content/2026-02-16/image2.png)
 
 #### Docker 엔진 설치
 
@@ -77,7 +77,7 @@ https://docs.docker.com/desktop/setup/install/windows-install/
 
 우측 상단 톱니바퀴 → 오른쪽 Resources → WSL Integration → Apply&Restart
 
-![alt text](../../assets/img/content/2026-02-16/image3.png)
+![alt text](/assets/img/content/2026-02-16/image3.png)
 ---
 
 ## WSL2
